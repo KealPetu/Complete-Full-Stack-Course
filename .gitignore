@@ -1,7 +1,7 @@
 *.zip
 solution/
 solution/
-solution.html
-Solution.html
+solution*.html
+Solution*.html
 solution.css
 Solution.css
